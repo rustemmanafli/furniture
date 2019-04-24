@@ -1,0 +1,16 @@
+.product{
+    position: absolute;
+    bottom:20px;
+    left:15px;
+    background: white
+}
+.item{
+    position: relative;
+}
+#header{
+    display: flex;
+}
+.nav ul li{
+    display: inline-block;
+    padding: 15px;
+}
